@@ -21,16 +21,9 @@ I design and build custom mechanical keyboards, macropads, and web projects. Cur
 
 **Hardware:** KiCad, Fusion 360, QMK/KMK Firmware, 3D Printing
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThorWolf21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ThorWolf21&layout=compact&theme=dracula&hide_border=true)
-
 ## 📫 Connect
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
 
