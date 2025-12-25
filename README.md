@@ -23,7 +23,7 @@ I design and build custom mechanical keyboards, macropads, and web projects. Cur
 
 ## 📫 Connect
 
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/799510114641510401)
 
 ---
 
