@@ -23,6 +23,7 @@ I design and build custom mechanical keyboards, macropads, and web projects. Cur
 
 ## 📫 Connect
 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thorwolf21/?igsh=cW43c2dldmc1NWhj&utm_source=qr)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/799510114641510401)
 
 ---
